@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=friartie&color=3d80a3&style=flat-square&label=❄️" />
+  <img src="https://komarev.com/ghpvc/?username=friartie&color=160c8f&style=flat-square&label=⪩•⪨" />
   <div align="center">
-  <img src="https://i.postimg.cc/Xq3Xncq3/inbound8744838445410866360.gif"  width="400">
+  <img src="https://files.catbox.moe/oc2l80.png"  width="400">
 <div>
